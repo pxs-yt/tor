@@ -3,5 +3,5 @@ document.getElementById("tor-download").onclick = function () {
 }
 
 document.getElementById("ahmia").onclick = function () {
-    location.href = "juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion"
+    location.href = "https://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion"
 }
